@@ -1,0 +1,24 @@
+/* ---------------------- 1. Base ---------------------- */
+/* --------------------- 1 Base --------------------- */
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500,700,900");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500,700,900");
+a { color: #171a21; text-decoration: none; }
+
+img { max-width: 100%; }
+
+body { background: #fff; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 14px; color: #000; margin: 0; padding: 0; }
+
+/* --------------------- 2 Fonts --------------------- */
+/* ------------------- 3 Typography ------------------ */
+/* --------------------- 2. Layout --------------------- */
+/* --------------------- 1 Header --------------------- */
+/* --------------------- 2 Footer --------------------- */
+/* ------------------- 3. components ------------------- */
+/* --------------------- 1 button --------------------- */
+/* --------------------- 4. pages ---------------------- */
+/* -----------------  1. Home page ---------------- */
+.swiper-container { width: 100%; padding-top: 50px; padding-bottom: 50px; }
+
+.swiper-slide { background-position: center; background-size: cover; width: 300px; height: 300px; }
+
+/*# sourceMappingURL=main.css.map */
